@@ -1,4 +1,6 @@
-from Lab_6.BasePage import Page
+from selenium.webdriver.common.by import By
+
+from Lab_6.BasePage_6 import Page
 
 
 class DynamicLoadingPage(Page):

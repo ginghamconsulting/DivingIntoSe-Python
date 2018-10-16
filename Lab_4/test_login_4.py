@@ -1,4 +1,4 @@
-from Lab_4.LoginPage import LoginPage
+from Lab_4.LoginPage_4 import LoginPage
 
 
 def test_login(selenium):

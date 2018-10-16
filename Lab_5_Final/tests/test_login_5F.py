@@ -1,6 +1,6 @@
 import pytest
 
-from Lab_5_Final.pages.LoginPage import LoginPage
+from Lab_5_Final.pages.LoginPage_5F import LoginPage
 
 
 def test_login(selenium):

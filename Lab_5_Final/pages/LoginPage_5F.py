@@ -1,6 +1,6 @@
 from selenium.webdriver.common.by import By
 
-from Lab_5_Final.pages.BasePage import Page
+from Lab_5_Final.pages.BasePage_5F import Page
 
 
 class LoginPage(Page):
