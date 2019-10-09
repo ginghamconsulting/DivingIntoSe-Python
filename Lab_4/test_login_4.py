@@ -2,7 +2,7 @@ from Lab_4.LoginPage_4 import LoginPage
 
 
 def test_login(selenium):
-    login = LoginPage()
+    login = LoginPage(selenium)
 
     # TODO: Follow Lab 4 to refactor to use Page Objects
     selenium.get("http://the-internet.herokuapp.com/login")
